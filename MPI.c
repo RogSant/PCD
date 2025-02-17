@@ -5,7 +5,7 @@
 #include <mpi.h>
 #include <string.h>
 
-#define N 8000  // Tamanho da grade
+#define N 4000  // Tamanho da grade
 #define T 500   // Número de iterações no tempo
 #define D 0.1   // Coeficiente de difusão
 #define DELTA_T 0.01
